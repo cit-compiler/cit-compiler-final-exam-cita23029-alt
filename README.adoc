@@ -169,7 +169,7 @@ BNFは、 `codes/lox_8_4.bnf` に記述し、その結果が「 <<lox_8_4>> 」�
 .8.4節までの構文規則を示したBNF
 [source,text]
 ----
-include::codes/lox_8_4.bnf[]
+include::{sourcesdir}/lox_8_4.bnf[]
 ----
 
 
